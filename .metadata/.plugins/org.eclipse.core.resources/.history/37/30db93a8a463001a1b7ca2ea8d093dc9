@@ -1,0 +1,5 @@
+package com.wtn.stud.entity;
+
+public class Student {
+
+}

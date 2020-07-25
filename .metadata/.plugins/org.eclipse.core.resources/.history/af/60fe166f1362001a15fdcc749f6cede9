@@ -1,0 +1,22 @@
+package COM.WTN.TWOD.MAIN;
+import java.util.Scanner;
+public class MainClass {
+	private static Scanner sc=new Scanner(System.in);
+	public static void main(String args[])
+	{
+		
+		int m = displayMenu();
+		ShapeCollection s=new ShapeCollection();
+	}
+	private static displayMenu(){
+		System.out.println("1.create a new shape");
+		System.out.println("2.sort all shape object");
+		System.out.println("3.delete the shape(s) with least area");
+		System.out.println("4. delete all shapes");
+		System.out.println("5. draw a frame whose circumfrence is same as the square");
+		System.out.println("Choose any other number to exit");
+		
+		
+	}
+
+}

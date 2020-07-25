@@ -1,0 +1,17 @@
+Write A MENU DRIVEN PROGRAM WITH THE FOLLOWING MENU OPTIONS:
+	ADD NEW SHAPE
+	SORT THE SHAPE IN THE ASCENDING ORDER OF THE AREAS
+	DELETE THE SHAPE WITH LEAST AREAS
+	DRAW A FRAME WHOSE CIRCUMFRENCE AS SAME AS AS CIRCUMFRENCE OF OF SQUARE
+	DELETE ALL SHAPE
+
+	create obj of class and using that object call the methods
+	instance method: if we call static method we ll call by class name;
+	by creating obj 
+	if belong to super class and if inherited then we ll call simply.
+
+	FACTORY PATTERN
+		ABSTRACT FACTORY PATTERN
+		
+	
+	
